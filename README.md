@@ -10,7 +10,7 @@ https://thohebul.github.io/Protfolio/
 📂 GitHub Repository
 
 🔗 Repository:
-https://github.com/thohebul/Protfolio
+https://github.com/thohebul/protfolio
 
 📸 Project Preview
 
