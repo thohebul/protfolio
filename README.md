@@ -5,7 +5,7 @@ A modern, responsive Personal Portfolio Website built to showcase my skills, ser
 🌐 Live Demo
 
 🔗 Live Website:
-https://thohebul.github.io/Protfolio/
+https://thohebul.github.io/protfolio/
 
 📂 GitHub Repository
 
